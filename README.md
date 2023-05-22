@@ -1,7 +1,8 @@
 # Toxic Mouse House VrBox Destekli mobil oyun projesi
 
 Toxic House Mouse "Google Cardboard" eklenti paketi ile VRboxlar için oluşturulmuş Kontroller ile oynanılan ve hala üzerinde çalıştığım bir Mobil oyun projesidir. Oyun Evini ilaçlatmaya karar veren ev sahibleri yüzünden zehirlenme tehlikesi ile karşı karşıya kalan bir farenin; duvarların içerisinden kaçmaya çalışma hikayesini ele alıyor. 
-Oyun içi bazı görsellere Aşağıda ulaşabilirsiniz. 
+
+Oyun içi bazı görsellere Aşağıdan Oyun içinde kullandığım script doyalarına yukarıdan ulaşabilirsiniz. 
 ![Screenshot_1](https://github.com/gturksever/Toxic-Mouse-House/assets/108203555/c395af6f-00d8-41d7-be57-5f769f0cd3bd)
 
 ![Screenshot_2](https://github.com/gturksever/Toxic-Mouse-House/assets/108203555/ba731cd0-5090-4452-8582-15639f90b3f7)
